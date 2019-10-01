@@ -389,7 +389,7 @@ def calcRangeBall(sortedPos, ballNumber):
 
 #Settings path file and file name (Change the Green one)
 
-pathFile = 'D:\\Project\\OpenCV Erlina\\'                   # Directory of the program file
+pathFile = 'D:\\Github\\multiballDetc\\'                   # Directory of the program file
 openFile = pathFile +'video1.mp4'                           # Name of the input video, put video next to program file
 csvPosFile = pathFile + 'dataPosBola.csv'                   # name of the csv file that contain object position
                                                             # over time
